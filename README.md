@@ -10,12 +10,12 @@
 ```bash
 $ python encrypto.py
 ```
-##OR
+## OR
 
 ```bash
 $ python3 encrypto.py
 ```
-##OR 
+## OR 
 
 ```bash
 $ <PATH-OF-PYTHON> encrypto.py
